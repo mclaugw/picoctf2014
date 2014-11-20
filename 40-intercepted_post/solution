@@ -1,0 +1,3 @@
+strings intercept.pcap | grep pass
+
+flag{pl$_$$l_y0ur_l0g1n_form$}
