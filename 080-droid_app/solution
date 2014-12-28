@@ -1,0 +1,13 @@
+decompileandroid.com
+
+./src/picoapp453/picoctf/com/picoapp/ToasterActivity.java
+
+
+        mystery = new String(new char[] {
+            'f', 'l', 'a', 'g', ' ', 'i', 's', ':', ' ', 'w',
+            'h', 'a', 't', '_', 'd', 'o', 'e', 's', '_', 't',
+            'h', 'e', '_', 'l', 'o', 'g', 'c', 'a', 't', '_',
+            's', 'a', 'y'
+        });
+
+what_does_the_logcat_say
