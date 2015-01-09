@@ -1,0 +1,8 @@
+downloaded evil ssh server
+downloaded original ssh server
+diff'd the dirs
+
+found some added code for auth
+just have to reverse memfrob
+password: iminyourmachinestealingyourflags
+key from ssh server: ssshhhhh_theres_a_backdoor
